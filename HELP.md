@@ -56,5 +56,12 @@ To execute unit tests:
 mvn test
 ```
 
+# API Access from Swagger UI
+
+http://<host>:port/swagger-ui/index.html#/
+
+For ex: 
+http://localhost:8080/swagger-ui/index.html#/
+
 ## Support
 For any issues, please open an issue on [GitHub](https://github.com/22arpitmaru/insurance/issues).
